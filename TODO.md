@@ -10,10 +10,10 @@
 - **1.2 Functional and Non-Functional Requirements**
 
   - [ ] The Thanh: List all functional requirements for each stakeholder in single sentences. Make sure they are complete, unambiguous, consistent, and correct.
-  - [ ] The Thanh: List all two non-functional requirements for each stakeholder in single sentences. Ensure they are complete, unambiguous, consistent, and correct.
+  - [ ] The Thanh: List all non-functional requirements for each stakeholder in single sentences. Ensure they are complete, unambiguous, consistent, and correct.
 - **1.3 Use-Case Diagrams**
 
-  - [ ] Minh Triet: Draw a complete and syntactically correct use-case diagram for the whole system.
+  - [ ] Minh Triet, Huy Pham, Tran Khoi: Draw a complete and syntactically correct use-case diagram for the whole system.
 
 ---
 
